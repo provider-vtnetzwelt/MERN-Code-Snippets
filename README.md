@@ -2,7 +2,7 @@
 It is a code snippet for handling real time quizes for student's in a school.
 
 ## Frontend
-This is a React app built on NextJS framework built using typescript. In this app we are using GraphQL as a layer for managing api hits, caching and state. This app also supports real time communication via sockets.
+This is a React app built on NextJS framework using typescript. In this app we are using GraphQL as a layer for managing api hits, caching and state. This app also supports real time communication via sockets.
 
 #### QuestionBankHook.ts
 This is a custom hook for questions listing, pagination, filteration. It contains all the stateful logic and graphql query to get the data from server.
